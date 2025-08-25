@@ -1,6 +1,6 @@
 Diffusion of Innovation
 KATIE TRAN, George Mason University
-In this research paper, we use ACM template in overleaf.com and Latex features for importing and displaying image files. The paper
+In this research paper, we use ACM template in overleaf.com and Latex features, R, Python, and NetLogo for importing and displaying image files. The paper
 is about The Diffusion of Innovation theory, and examines the adoption of smart phone technology within a suburban community,
 seeking to understand the factors influencing early adopters’ decisions to integrate these devices, particularly focusing on how
 perceived social influence and environmental concerns impact their adoption behavior; this paper investigates the key motivators
